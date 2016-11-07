@@ -1,2 +1,2 @@
 # liu
-liu is becoming stronger
+liu is becoming stronger.
